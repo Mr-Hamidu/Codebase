@@ -1,0 +1,5 @@
+age = input("How old are you? " )
+height = input("How tall are you ")
+weight = input("What is you weight " )
+print("What time do you have?", input())
+print(f"You are {age} old , {height} tall and {weight} Heavy",end='')
